@@ -220,5 +220,5 @@ Binary Classification / Multi-Class Classification
 
 Contributors:
         Dataset analysis and Cross dataset creation: Puneeth reddy,N. Kaushik 
-        Base Research gap analysis: B.Rohith Reddy 
-        proposed architecture Design: M.Pranay,P.Ram charan
+        Base Research gap analysis: M.Pranay,P.Ram charan 
+        proposed architecture Design:B.Rohith Reddy 
