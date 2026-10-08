@@ -217,3 +217,8 @@ Softmax
 Binary Classification / Multi-Class Classification
 ```
 Binary Classification / Multi-Class Classification
+
+Contributors:
+        Dataset analysis and Cross dataset creation: Puneeth reddy,N. Kaushik 
+        Base Research gap analysis: B.Rohith Reddy 
+        proposed architecture Design: M.Pranay,P.Ram charan
